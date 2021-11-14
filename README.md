@@ -1,0 +1,11 @@
+# General info
+This Project is used to Creating Rest API using Sprint Boot and HashMap. All the the data is stored and retrieved from Hashmap.
+
+## Note :
+
+1.To Execute run SdetSpringApplication.java file. 
+
+2.To test APIs navigate to localhost:8080/swagger-ui.html.
+
+## Note:
+Swagger is configured with the help of SpringDoc-OpenAPI-UI Java library.
