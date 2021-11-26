@@ -1,6 +1,7 @@
 package com.SDETSpring.SDETSpring.Service;
 
 import com.SDETSpring.SDETSpring.Entity.Country;
+import lombok.ToString;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
@@ -9,6 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 @Service
+@ToString
 public class CountryService  {
 
     Map<Integer, Country> countryIdMap;
