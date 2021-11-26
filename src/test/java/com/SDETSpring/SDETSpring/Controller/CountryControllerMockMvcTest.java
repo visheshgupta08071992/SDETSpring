@@ -27,12 +27,6 @@ public class CountryControllerMockMvcTest {
     @Autowired
     MockMvc mockMvc;
 
-    @Mock
-    CountryService countryService;
-
-    @InjectMocks
-    CountryController countryController;
-
     @Test
     public void getAllCountriesTest() throws Exception {
         this.mockMvc.perform(get("/getcountries"))
