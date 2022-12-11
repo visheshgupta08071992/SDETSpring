@@ -1,7 +1,7 @@
 # General info
-This Project is used to Creating Rest API using Sprint Boot and HashMap. All the the data is stored and retrieved from Hashmap.
+This Project is used for Creating Rest API using Sprint Boot and HashMap. All the the data is stored and retrieved from Hashmap.
 
-**How to run the given application :**
+**How to run the given application through IDE :**
 
 1.To Execute run SdetSpringApplication.java file. 
 
