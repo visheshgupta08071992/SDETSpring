@@ -1,4 +1,4 @@
-# General info
+## Setup info
 This Project is used for Creating Rest API using Sprint Boot and HashMap. All the the data is stored and retrieved from Hashmap.
 
 **How to run the given application through IDE :**
@@ -30,5 +30,10 @@ docker run -p 9090:8080 visheshdocker/sdetspringprojects
 In the above command port 9090 is the local machine port mapped to container port 8080.
 
 Once the above commands are executed, then we can test the API created using the given project on swagger url localhost:9090/swagger-ui.html
+
+## Note
+The given application is dockerized by refering document -
+
+https://github.com/visheshgupta08071992/AutomationAndDSANotes/blob/master/HowToDockerizeSpringBootApplication.md
 
 
